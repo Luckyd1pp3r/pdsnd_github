@@ -8,6 +8,8 @@ import numpy as np
 # I used the folowing sources 
 # https://github.com/synflyn28/udacity-bikeshare/blob/master/bikeshare_2.py
 
+#Added refactoring branch udacity lab
+
 
 CITY_DATA = { 'CHICAGO': 'chicago.csv',
               'new york city': 'new_york_city.csv',
