@@ -9,7 +9,7 @@ import numpy as np
 # https://github.com/synflyn28/udacity-bikeshare/blob/master/bikeshare_2.py
 
 
-CITY_DATA = { 'chicago': 'chicago.csv',
+CITY_DATA = { 'CHICAGO': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
